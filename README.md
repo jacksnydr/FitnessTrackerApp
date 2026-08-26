@@ -1,4 +1,3 @@
-# Ochre
 # C323 / Spring 2026 Final Project 
 
 **Team Members:** Jack Snyder (snyderjk@iu.edu), Trevor Lough (tlough@iu.edu) [Team 8]\
